@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\bin\Debug\net8.0\AM.core.services.deps.json
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\bin\Debug\net8.0\AM.core.services.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\bin\Debug\net8.0\AM.core.services.pdb
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core..A6A8BE38.Up2Date
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\refint\AM.core.services.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\AM.core.services.pdb
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.core.services\obj\Debug\net8.0\ref\AM.core.services.dll

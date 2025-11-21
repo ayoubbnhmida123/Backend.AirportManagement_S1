@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\ADMIN\Desktop\4eme bi\Architecture des SI   I\TP1-corrigé\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
